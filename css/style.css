@@ -315,7 +315,7 @@ footer {
         flex-direction: column; /* Pionowo */
     }
     .footer-brand h3 {
-        font-size: 1.1rem; /* Było 2rem */
+        font-size: 0.8rem; /* Było 2rem */
         word-break: break-word; /* Wymuś łamanie, jeśli trzeba */
     }
     /* 1. Ustaw logo i przycisk jeden pod drugim (lub obok, jeśli małe) */
@@ -354,4 +354,5 @@ footer {
         white-space: nowrap; 
         font-size: 0.7rem; 
     }
+
 }
